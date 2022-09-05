@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS devTech_db;
+
+CREATE DATABASE devTech_db;
