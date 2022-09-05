@@ -5,6 +5,8 @@ A full-stack application built to support a tech blog website.
 
 ## Languages
 * MySQL
+* HTML
+* CSS
 * JavaScript
 
 ## Dependencies
